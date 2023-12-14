@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/css/site.min.css",
+      "PackagePath": "staticwebassets/css/site.min.css"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/.bower.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/.bower.json"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-theme.css"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-theme.css.map"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/js/npm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/npm.js"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/.bower.json",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/.bower.json"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation/.bower.json",
+      "PackagePath": "staticwebassets/lib/jquery-validation/.bower.json"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery/.bower.json",
+      "PackagePath": "staticwebassets/lib/jquery/.bower.json"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.SimpleFeedReader.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.SimpleFeedReader.props",
+      "PackagePath": "build\\SimpleFeedReader.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SimpleFeedReader.props",
+      "PackagePath": "buildMultiTargeting\\SimpleFeedReader.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SimpleFeedReader.props",
+      "PackagePath": "buildTransitive\\SimpleFeedReader.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
