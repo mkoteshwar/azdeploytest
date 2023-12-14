@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "414a/QnASkHodouDYojYu/91fo30/44btKxAztmVacEyrsljohTjZg5VwtKnCUKD+xqFUft6KDQFXcxkmzGZ/Q==",
+  "dgSpecHash": "XWo4PX/DF4Rnz9qLjxozOA02de0dPFqpelOkkaw8r0qIbNpi+fBmjMMN9mGdhoNmXQM2xOS3dDCKXxyipRtorA==",
   "success": true,
-  "projectFilePath": "/home/mac/simple-feed-reader/SimpleFeedReader/SimpleFeedReader.csproj",
+  "projectFilePath": "/home/mac/azdeploytest/SimpleFeedReader/SimpleFeedReader.csproj",
   "expectedPackageFiles": [
     "/home/mac/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/home/mac/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gFNTbDCLPtub32twr0iMkDcAq5HTH86TW0KqGNbyXcY=",
+  "Hash": "tkVh+o4d2UrRjElkHzzYSHMxwJ/7ZWkw2rBvI3BnfaQ=",
   "Source": "SimpleFeedReader",
   "BasePath": "_content/SimpleFeedReader",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SimpleFeedReader/wwwroot",
       "Source": "SimpleFeedReader",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/css/site.css",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/css/site.css",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/css/site.min.css",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/css/site.min.css",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot/css/site.min.css"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/favicon.ico",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/favicon.ico",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/.bower.json",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/.bower.json",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/.bower.json",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/.bower.json"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/dist/js/npm.js",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/dist/js/npm.js",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/dist/js/npm.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/npm.js"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/.bower.json",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/.bower.json",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery-validation-unobtrusive/.bower.json",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/.bower.json"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation/.bower.json",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery-validation/.bower.json",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery-validation/.bower.json",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/.bower.json"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery/.bower.json",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery/.bower.json",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery/.bower.json",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/.bower.json"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "SimpleFeedReader",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mac/simple-feed-reader/SimpleFeedReader/wwwroot/",
+      "ContentRoot": "/home/mac/azdeploytest/SimpleFeedReader/wwwroot/",
       "BasePath": "_content/SimpleFeedReader",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

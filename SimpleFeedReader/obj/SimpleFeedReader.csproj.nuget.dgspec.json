@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mac/simple-feed-reader/SimpleFeedReader/SimpleFeedReader.csproj": {}
+    "/home/mac/azdeploytest/SimpleFeedReader/SimpleFeedReader.csproj": {}
   },
   "projects": {
-    "/home/mac/simple-feed-reader/SimpleFeedReader/SimpleFeedReader.csproj": {
+    "/home/mac/azdeploytest/SimpleFeedReader/SimpleFeedReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mac/simple-feed-reader/SimpleFeedReader/SimpleFeedReader.csproj",
+        "projectUniqueName": "/home/mac/azdeploytest/SimpleFeedReader/SimpleFeedReader.csproj",
         "projectName": "SimpleFeedReader",
-        "projectPath": "/home/mac/simple-feed-reader/SimpleFeedReader/SimpleFeedReader.csproj",
+        "projectPath": "/home/mac/azdeploytest/SimpleFeedReader/SimpleFeedReader.csproj",
         "packagesPath": "/home/mac/.nuget/packages/",
-        "outputPath": "/home/mac/simple-feed-reader/SimpleFeedReader/obj/",
+        "outputPath": "/home/mac/azdeploytest/SimpleFeedReader/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mac/.nuget/NuGet/NuGet.Config"
