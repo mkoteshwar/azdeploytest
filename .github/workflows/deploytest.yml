@@ -20,6 +20,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore SimpleFeedReader/SimpleFeedReader.csproj
     - name: Build
-      run: dotnet build SimpleFeedReader/SimpleFeedReader.csproj -no-restore
+      run: dotnet build SimpleFeedReader/SimpleFeedReader.csproj --no-restore
     - name: Test
       run: dotnet test SimpleFeedReader/SimpleFeedReader.csproj --no-build --verbosity normal
